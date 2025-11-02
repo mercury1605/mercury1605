@@ -22,5 +22,4 @@ http://github-readme-stats.vercel.app/api?username=mercury1605&show_icons=true&t
 http://github-readme-stats.vercel.app/api/top-langs/?username=mercury1605&layout=compact&theme=radical
 http://github-readme-streak-stats.herokuapp.com/?user=mercury1605&theme=radical
 </div>
-https://github-readme-activity-graph.vercel.app/graph?username=mercury1605&theme=github
 
