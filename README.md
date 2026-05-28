@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thuy Nguyen</h1>
-<h3 align="left">I'm a second-year Software Engineering student at FPT University Da Nang, passionate about building scalable backend systems and solving real-world problems through code. I'm a tech enthusiast who thrives on experimenting with new technologies and uncovering how things work under the hood. Every day is an opportunity to learn something new, and I'm committed to pushing my limits as I work toward achieving my goals in the tech world.</h3>
+<h3 align="left">I'm a third-year Software Engineering student at FPT University Da Nang, passionate about building scalable backend systems and solving real-world problems through code. I'm a tech enthusiast who thrives on experimenting with new technologies and uncovering how things work under the hood. Every day is an opportunity to learn something new, and I'm committed to pushing my limits as I work toward achieving my goals in the tech world.</h3>
 
 - 📫 How to reach me **nguyenthuy010605@gmail.com**
 
