@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-# Thủy Nguyên
+# Thuy Nguyen
 
 *4th-year student · FPT University · FPT Software Da Nang*
 
