@@ -1,11 +1,12 @@
-<div align="center">
 
-<!-- Header -->
-# Thuy Nguyen
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thuy+Nguyen;mercury&size=25&duration=3000&pause=600&color=00F2FF&center=true&vCenter=true&multiline=false)](https://git.io/typing-svg)
 
 *4th-year student · FPT University · FPT Software Da Nang*
-
 </div>
+
+
 
 ---
 
